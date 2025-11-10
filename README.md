@@ -58,7 +58,7 @@ The `building-database-agent` project explores techniques for interacting with a
 - `02 csv_data_interact.ipynb` – Interacting with CSV data.
 - `03 Connecting to SQL Database.ipynb` – SQL database connectivity and querying.
 - `04 Azure OpenAI Function Calling Feature.ipynb` – AI-powered natural language database querying with Azure OpenAI.
-- `data/` – Example datasets (if present).
+- `data/` – Example datasets.
 - `requirements.txt` – Python dependencies.
 
 ## Requirements
