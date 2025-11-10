@@ -1,4 +1,4 @@
-# building-database-agent
+# Building A Database Agent
 
 The `building-database-agent` project explores techniques for interacting with and querying building-related data, including CSV files and SQL databases, using notebooks. The repository provides a step-by-step guide from basic data exploration in CSVs to connecting and querying a SQL database, and ultimately building an AI-powered natural language interface using Azure OpenAI's function calling capabilities.
 
